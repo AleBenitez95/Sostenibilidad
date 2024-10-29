@@ -27,4 +27,11 @@ La compañía lanzó su primer Plan de Sostenibilidad en el año 1991, y la actu
 
 [Plan desarrollo sostenible de Nestlé](https://empresa.nestle.es/sites/g/files/pydnoa431/files/es/libreria-documentos/documents/publicaciones/reporte-desarrollo-sostenible-nestle.pdf)
 
-### 
+### BIMBO
+
+
+Bimbocontribuye poderosamente al desarrollo económico en 32 países diferentes. Su acción mejora la vida de las comunidades, haciendo una gran inversión en tecnología para reducir su huella ambiental.
+
+No solamente trabaja por el medio ambiente, sino que gracias a programas específicos, fomenta la vida sana, la práctica del deporte o la educación. También ofrece a sus trabajadores políticas y un clima en el que ellos pueden sentirse bien, valorados, y pueden seguir creciendo dentro de la empresa.
+
+[Plan de desarrollo sostenible Bimbo](https://www.grupobimbo.es/sostenibilidad)
