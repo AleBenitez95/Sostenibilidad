@@ -23,7 +23,7 @@ Su labor en cuanto a desarrollo sostenible, se centra en elaborar y proporcionar
 
 La compañía lanzó su primer Plan de Sostenibilidad en el año 1991, y la actualiza muy frecuentemente.
 
-![nestle](img/img8.png)
+![nestle](img/img8.jpg)
 
 [Plan desarrollo sostenible de Nestlé](https://empresa.nestle.es/sites/g/files/pydnoa431/files/es/libreria-documentos/documents/publicaciones/reporte-desarrollo-sostenible-nestle.pdf)
 
