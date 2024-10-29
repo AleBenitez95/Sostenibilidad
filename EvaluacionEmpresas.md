@@ -12,10 +12,12 @@ Para las **organizaciones empresariales** la sostenibilidad ambiental solo tiene
 ### UNILEVER
 
 Esta es de las empresas con desarrollo sostenible que es necesario mencionar e incluir en nuestra lista. Creó y lanzó su estrategia de desarrollo sostenible en el año 2010 (el Plan de Vida Sostenible). Con este, conectó su línea de negocio con el respeto al medio ambiente.
-[Plan desarrollo sostenible de Unilever](https://www.unilever-southlatam.com/sustainability/)
+
 Este año, la empresa ha entrado a formar parte del Plan de Economía Circular que gestiona CANIPEC, en México.
 
 Para conseguirlo, Unilever, entre otras, lleva a cabo la recuperación de envases usados para luego reciclarlos, promoción de la economía circular y campañas de concienciación y comunicación.
+
+[Plan desarrollo sostenible de Unilever](https://www.unilever-southlatam.com/sustainability/)
 
 ### NESTLÉ
 
@@ -24,3 +26,5 @@ Su labor en cuanto a desarrollo sostenible, se centra en elaborar y proporcionar
 La compañía lanzó su primer Plan de Sostenibilidad en el año 1991, y la actualiza muy frecuentemente.
 
 [Plan desarrollo sostenible de Nestlé](https://empresa.nestle.es/sites/g/files/pydnoa431/files/es/libreria-documentos/documents/publicaciones/reporte-desarrollo-sostenible-nestle.pdf)
+
+### 
