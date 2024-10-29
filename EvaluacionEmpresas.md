@@ -13,7 +13,7 @@ Esta es de las empresas con desarrollo sostenible que es necesario mencionar e i
 Este año, la empresa ha entrado a formar parte del Plan de Economía Circular que gestiona CANIPEC, en México.
 
 Para conseguirlo, Unilever, entre otras, lleva a cabo la recuperación de envases usados para luego reciclarlos, promoción de la economía circular y campañas de concienciación y comunicación.
-
+![unilever](img/img7.png)
 [Plan desarrollo sostenible de Unilever](https://www.unilever-southlatam.com/sustainability/)
 
 ### NESTLÉ
@@ -21,7 +21,7 @@ Para conseguirlo, Unilever, entre otras, lleva a cabo la recuperación de envase
 Su labor en cuanto a desarrollo sostenible, se centra en elaborar y proporcionar productos de gran calidad que ayuden al bienestar de las personas. Esto lo hace mediante una política responsable social y medioambiental.  Es decir, Nestlé pretende llevar a cabo su tarea respetando siempre el medio ambiente sin comprometerlo, y provocando el mínimo impacto.
 
 La compañía lanzó su primer Plan de Sostenibilidad en el año 1991, y la actualiza muy frecuentemente.
-
+![nestle](img8.png)
 [Plan desarrollo sostenible de Nestlé](https://empresa.nestle.es/sites/g/files/pydnoa431/files/es/libreria-documentos/documents/publicaciones/reporte-desarrollo-sostenible-nestle.pdf)
 
 ### BIMBO
@@ -30,7 +30,7 @@ La compañía lanzó su primer Plan de Sostenibilidad en el año 1991, y la actu
 Bimbocontribuye poderosamente al desarrollo económico en 32 países diferentes. Su acción mejora la vida de las comunidades, haciendo una gran inversión en tecnología para reducir su huella ambiental.
 
 No solamente trabaja por el medio ambiente, sino que gracias a programas específicos, fomenta la vida sana, la práctica del deporte o la educación. También ofrece a sus trabajadores políticas y un clima en el que ellos pueden sentirse bien, valorados, y pueden seguir creciendo dentro de la empresa.
-
+![bimbo](img/img8.png)
 [Plan de desarrollo sostenible Bimbo](https://www.grupobimbo.es/sostenibilidad)
 
 
