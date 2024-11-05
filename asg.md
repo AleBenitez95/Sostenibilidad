@@ -1,5 +1,7 @@
 # ¿A qué concepto hace referencia la sigla ASG?
 
+[asg](img/img13.jpg)
+
 ## La sigla ASG se refiere al conjunto de criterios que evalúan el desempeño y los riesgos de una organización en tres áreas esenciales:
 
   1. Ambiental (A): Incluye el impacto de la empresa en el medio ambiente, como su consumo de recursos, emisión de gases de efecto invernadero, uso de energías renovables, y prácticas para mitigar el cambio climático.
