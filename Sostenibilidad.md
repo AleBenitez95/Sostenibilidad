@@ -1,7 +1,9 @@
 # Agenda 2030 y las ODS
 
 La agenda 2030 se aprueba en septiembre de 2015, con el objetivo de abordar los desafíos mundiales más apremiantes, como lo son: la pobreza. el hambre, hasta la corrupción y el cambio climático.
---
+
+---
+
 ## La agenda 2030 está formada por 17 objetivos de desarrollo sostenible(ODS), los cuales son:
 
   1.Fin de la pobreza: Erradicar la pobreza en todas sus formas.
@@ -21,7 +23,9 @@ La agenda 2030 se aprueba en septiembre de 2015, con el objetivo de abordar los 
   15.Vida de ecosistemas terrestres: Proteger y restaurar los ecosistemas terrestres.
   16.Paz, justicia e instituciones sólidas: Promover sociedades pacíficas e inclusivas y garantizar el acceso a la justicia.
   17.Alianzas para lograr los objetivos: Fortalecer la cooperación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.
---
+
+  ---
+  
   ## ¿En qué órgano de la ONU se debate sobre los ODS?
 
   los debates sobre los ODS se dan en varios órganos de la ONU, pero la Asamblea General (Asamblea General de las Naciones Unidas. Este órgano está compuesto por todos los Estados miembros de la ONU (193 países) y es el principal foro donde se discuten y adoptan decisiones sobre una amplia gama de temas globales, incluidos los ODS) y el HLPF ( Foro Político de Alto Nivel sobre el Desarrollo Sostenible (HLPF), que se celebra anualmente y proporciona una plataforma para revisar el progreso en la implementación de los ODS a nivel global) son los más relevantes.
