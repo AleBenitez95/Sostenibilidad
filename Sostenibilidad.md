@@ -6,7 +6,7 @@ La agenda 2030 se aprueba en septiembre de 2015, con el objetivo de abordar los 
 
 ## La agenda 2030 está formada por 17 objetivos de desarrollo sostenible(ODS), los cuales son:
 
-  1.Fin de la pobreza: Erradicar la pobreza en todas sus formas.
+  1. Fin de la pobreza: Erradicar la pobreza en todas sus formas.
   2.Hambre cero: Poner fin al hambre, lograr la seguridad alimentaria y mejorar la nutrición.
   3.Salud y bienestar: Asegurar una vida sana y promover el bienestar para todos.
   4.Educación de calidad: Garantizar una educación inclusiva y de calidad para todos.
