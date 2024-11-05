@@ -1,3 +1,4 @@
+
 ## Participación De Las Empresas
 
 Para las **organizaciones empresariales** la sostenibilidad ambiental solo tiene ventajas. Por ejemplo, adherirse a compromisos de sostenibilidad ambiental genera racionalidad en la gestión. Las empresas que aplican medidas de sostenibilidad ambiental generan imagen de marca y prestigio. Además, al cumplir las normativas medioambientales se logra evitar incurrir en delitos, sanciones, multas o demandas y es más fácil colocarse en una buena posición frente a posibles subvenciones y recursos financieros.
@@ -13,6 +14,8 @@ Esta es de las empresas con desarrollo sostenible que es necesario mencionar e i
 Este año, la empresa ha entrado a formar parte del Plan de Economía Circular que gestiona CANIPEC, en México.
 
 Para conseguirlo, Unilever, entre otras, lleva a cabo la recuperación de envases usados para luego reciclarlos, promoción de la economía circular y campañas de concienciación y comunicación.
+
+
 ![unilever](img/img7.png)
 
 [Plan desarrollo sostenible de Unilever](https://www.unilever-southlatam.com/sustainability/)
@@ -39,8 +42,13 @@ No solamente trabaja por el medio ambiente, sino que gracias a programas especí
 [Plan de desarrollo sostenible Bimbo](https://www.grupobimbo.es/sostenibilidad)
 
 
-Aun así, hay algunas empresas que no apuestan por el desarrollo sostenible por ejemplo:
+## OBJETIVOS DE EMPRESAS DE ALTO NIVEL A NIVEL MUNDIAL
 
-### Saudi Aramco
+Las mayores élites mundiales se centran en fomentar las ODS en todo el mundo, esta concienciación de las empresas de alto nivel son:
+
+  -Concienciación sobre la ODS.
+  -Promoción de las ODS.
+  -Apoyo al sector privado con menos recursos económicos.
+  -Cooperación con los gobiernos de todo el mundo.
 
 
