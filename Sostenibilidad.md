@@ -1,4 +1,4 @@
-#Agenda 2030 y las ODS
+# Agenda 2030 y las ODS
 
 La agenda 2030 se aprueba en septiembre de 2015, con el objetivo de abordar los desafíos mundiales más apremiantes, como lo son: la pobreza. el hambre, hasta la corrupción y el cambio climático.
 
