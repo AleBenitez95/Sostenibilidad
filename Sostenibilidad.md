@@ -1,6 +1,8 @@
 
 # ¿Qué busca la sostenibilidad?
 
+![sostenibilidad](img/img13.jpg)
+
 La sostenibilidad busca equilibrar las necesidades actuales de las personas y las economías con la capacidad del medio ambiente de soportar dichas actividades sin agotar sus recursos. En esencia, su propósito es asegurar que las generaciones futuras también puedan satisfacer sus propias necesidades y vivir en un entorno saludable. La sostenibilidad intenta armonizar el crecimiento económico, el bienestar social y el cuidado del medio ambiente, promoviendo prácticas que minimicen el impacto negativo sobre el planeta.
 
 # ¿Qué tipos de sostenibilidad existen?
