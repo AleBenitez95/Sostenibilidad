@@ -25,6 +25,7 @@ La agenda 2030 se aprueba en septiembre de 2015, con el objetivo de abordar los 
   16. Paz, justicia e instituciones sólidas: Promover sociedades pacíficas e inclusivas y garantizar el acceso a la justicia.
   17. Alianzas para lograr los objetivos: Fortalecer la cooperación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.
 
+   ![Agenda2030](img/tarta-ods.jpg)
   ---
   
   ## ¿En qué órgano de la ONU se debate sobre los ODS?
