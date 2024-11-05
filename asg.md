@@ -1,6 +1,6 @@
 # ¿A qué concepto hace referencia la sigla ASG?
 
-[asg](img/img13.jpg)
+![asg](img/img13.jpg)
 
 ## La sigla ASG se refiere al conjunto de criterios que evalúan el desempeño y los riesgos de una organización en tres áreas esenciales:
 
