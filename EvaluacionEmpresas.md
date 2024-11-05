@@ -46,9 +46,9 @@ No solamente trabaja por el medio ambiente, sino que gracias a programas especí
 
 Las mayores élites mundiales se centran en fomentar las ODS en todo el mundo, esta concienciación de las empresas de alto nivel son:
 
-  -Concienciación sobre la ODS.
-  -Promoción de las ODS.
-  -Apoyo al sector privado con menos recursos económicos.
-  -Cooperación con los gobiernos de todo el mundo.
+  1. Concienciación sobre la ODS.
+  2. Promoción de las ODS.
+  3. Apoyo al sector privado con menos recursos económicos.
+  4. Cooperación con los gobiernos de todo el mundo.
 
 
