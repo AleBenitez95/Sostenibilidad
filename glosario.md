@@ -1,5 +1,4 @@
 # Glosario 
-
 1. Asamblea: Las asambleas de organizaciones internacionales, como la ONU, son esenciales para crear marcos normativos que promuevan la sostenibilidad y la cooperación global.
 
 2. Biodiversidad: La protección de la biodiversidad es fundamental para el equilibrio ecológico y el bienestar humano, siendo un componente clave en los acuerdos internacionales de sostenibilidad.
