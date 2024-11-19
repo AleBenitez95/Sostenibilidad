@@ -55,6 +55,8 @@ Las mayores élites mundiales se centran en fomentar las ODS en todo el mundo, e
 
 La desigualdad de género en las empresas, además de suponer un retroceso en nuestra sociedad y evolución, supone consecuencias negativas para las empresas.
 
+![desigualdad](img/img30.jpg)
+
 Para emperzar limita el crecimiento de las empresas, la mentalidad de segmentar la plantilla de una empresa supone una limitación para el crecimiento que frcasará a largo plazo debido a sus fallas en su enfoque empresarial, combinar estas dos sin ningun prejuicio establecido promoverá el talento de la plantilla simbiotizando las riquezas de unos y otros haciendo que esta tenga un mayor equilibrio profesional.
 
 Esto también producirá una fuga de cerebros, a su vez los empleados mostrarán mayor apatía afectando a su compromiso con la organización, repercutando así en una bajada de rendimiento.
@@ -62,6 +64,8 @@ Esto también producirá una fuga de cerebros, a su vez los empleados mostrarán
 ## MEDIR LAS EMISIONES DE CO2 ES PROPIO DE UNA MÉTRICA
 
 Una de las emisiones más comunes de clasificar las emisiones de carbono es según el alcance de su origen, que abarca desde las emisiones directas hasta las indirectas.
+
+![co2](img/img31.jpg)
 
   1. Alcance 1, emisiones directas
 
