@@ -11,6 +11,10 @@
 
 [EMPRESAS QUE INVIERTEN EN SOSTENIBILIDAD](https://www.universitatcarlemany.com/actualidad/blog/empresas-desarrollo-sostenible/)
 
-[EMPRESAS ESPAÑOLAS QUE INVIERTEN EN SOSTENIBILIDAD](https://emprendedores.es/sostenibilidad/10-empresas-sostenibles-espana/)
-
 [OBJETIVOS DE EMPRESAS](https://www.nuevatribuna.es/articulo/consumo/interesa-empresas-avanzar-desarrollo-s/20180207160610148299.html)
+
+[DESIGUALDAD](https://payfit.com/es/contenido-practico/desigualdad-de-genero-en-el-trabajo/#:~:text=En%20primer%20lugar%2C%20la%20desigualdad,plazo%20en%20su%20enfoque%20empresarial.)
+
+[CO2](https://trinoa.es/insights/medicion-de-emisiones-de-carbono-metricas-para-la-gestion-de-emisiones-en-empresas/)
+
+
