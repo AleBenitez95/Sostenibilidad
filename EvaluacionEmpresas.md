@@ -51,7 +51,7 @@ Las mayores élites mundiales se centran en fomentar las ODS en todo el mundo, e
   3. Apoyo al sector privado con menos recursos económicos.
   4. Cooperación con los gobiernos de todo el mundo.
 
-## RIESGOS DE LA DESIGUALDAD EN UNA EMPRESA
+## RIESGOS DE LA DESIGUALDAD DE GÉNERO EN UNA EMPRESA
 
 La desigualdad de género en las empresas, además de suponer un retroceso en nuestra sociedad y evolución, supone consecuencias negativas para las empresas.
 
@@ -59,3 +59,26 @@ Para emperzar limita el crecimiento de las empresas, la mentalidad de segmentar 
 
 Esto también producirá una fuga de cerebros, a su vez los empleados mostrarán mayor apatía afectando a su compromiso con la organización, repercutando así en una bajada de rendimiento.
 
+## MEDIR LAS EMISIONES DE CO2 ES PROPIO DE UNA MÉTRICA
+
+Una de las emisiones más comunes de clasificar las emisiones de carbono es según el alcance de su origen, que abarca desde las emisiones directas hasta las indirectas.
+
+  1. Alcance 1, emisiones directas
+
+Estas emisiones son aquellas generadas directamente por las fuentes de propiedad o control de la empresa.
+
+Dentro de esta categoría están, por ejemplo, las emisiones provenientes de la combustión de combustibles en instalaciones o las propias emisiones de procesos industriales específicos.
+
+Algunas métricas clave para medir las emisiones de alcance 1 pueden incluir: la cantidad total de carbono liberado en la quema de combustibles o la medición de residuos generados por procesos industriales específicos
+
+  2. Alcance 2, emisiones indirectas de energía
+
+Son las emisiones indirectas relacionadas con la compra y el uso de energía, es decir, las relacionadas con la generación de energía consumida por la empresa, pero no producida por la misma.
+
+Las métricas clave para medir las emisiones de alcance 2 pueden abarcar: el consumo total de electricidad y calefacción, junto con la cantidad de emisiones de CO2 generadas por la producción de la energía consumida.
+
+  3. Alcance 3, emisiones indirectas.
+
+Estas emisiones pueden originarse en la cadena de suministro, el uso de productos vendidos, los viajes de negocios…
+
+Algunas métricas específicas para las emisiones de alcance 3 podrían incluir: la cantidad de emisiones generadas por los proveedores y socios comerciales, las derivadas de productos vendidos o las provocadas por los empleados y el vehículo de empresa.
